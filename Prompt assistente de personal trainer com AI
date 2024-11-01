@@ -26,3 +26,43 @@ ABCDE: Divisão do treino em cinco dias, com foco ainda mais específico em cada
 -Tempo diario disponivel: 30 min
 -Local de treino: Casa
 Gere um plano de treino ideal com base nessas informações
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Exemplo de saida:
+Plano de Treino - Full Body (Peso Corporal) | 1 Dia (45 Minutos)
+Aquecimento (5 min)
+Polichinelos: 1 minuto
+Corrida estacionária (ou simulação de pular corda): 2 minutos
+Alongamento dinâmico: 2 minutos (braços, pernas e tronco)
+Parte Principal (30 min)
+Flexão de Braços: 4x12
+
+Para peito e braços. Se necessário, faça com apoio dos joelhos.
+Descanso: 30 segundos entre as séries.
+Agachamento Livre: 4x15
+
+Focado em pernas e glúteos. Desça devagar e mantenha o peso do corpo nos calcanhares.
+Descanso: 30 segundos entre as séries.
+Remada Invertida com Peso Corporal: 4x12
+
+Posição de prancha alta, puxando os ombros para trás e cotovelos para baixo.
+Descanso: 30 segundos entre as séries.
+Afundo Alternado: 3x12 (cada perna)
+
+Para quadríceps e glúteos. Dê um passo para frente, mantendo as costas eretas.
+Descanso: 30 segundos entre as séries.
+Mountain Climbers: 3x1 minuto
+
+Excelente para cardio e core.
+Descanso: 20 segundos entre as séries.
+Prancha com Toque de Ombro: 3x45 segundos
+
+Em posição de prancha, toque o ombro oposto com cada mão, alternando.
+Descanso: 20 segundos entre as séries.
+Finalização (10 min) - Cardio HIIT
+Realize cada exercício por 40 segundos, com 20 segundos de descanso entre cada um:
+High Knees (joelhos altos)
+Jump Squats (agachamento com salto)
+Burpees
+Escalador (Mountain Climbers)
