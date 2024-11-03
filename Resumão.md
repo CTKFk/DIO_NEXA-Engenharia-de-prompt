@@ -8,8 +8,10 @@
     processos empresariais complexos. Algumas funcionalidades importantes incluem:
 
   **Orquestração sem servidor:** Os fluxos de trabalho podem envolver vários serviços da AWS sem a necessidade de configurar a infraestrutura subjacente.
+  
   **Automação de processos complexos:** É possível definir estados, transições e condições usando o Amazon States Language (ASL), facilitando o controle de 
   execuções complexas, como ETL (Extração, Transformação e Carregamento) de dados.
+  
   **Monitoramento e controle de erros:** Step Functions permite configurar pontos de falha, definir etapas de fallback e monitorar fluxos em tempo real, 
   com detalhamento de logs e rastreamento de execução.
   
@@ -22,6 +24,9 @@
 
 **Boas Práticas para Engenharia de Prompt**
 **Ser claro e específico:** Evite ambiguidade. Use uma linguagem direta para descrever exatamente o que você espera da resposta.
+
 **Testar variações:** Experimentar diferentes versões do mesmo prompt ajuda a entender qual estrutura gera respostas mais úteis e consistentes.
+
 **Usar contexto e instruções passo-a-passo:** Estruturar o prompt em etapas, indicando o contexto e cada parte da resposta esperada, pode melhorar a precisão do modelo.
+
 **Aplicar limites de resposta e restrições:** Definir o número máximo de palavras ou pedir que o modelo responda dentro de certos limites pode gerar saídas mais controladas e focadas.
